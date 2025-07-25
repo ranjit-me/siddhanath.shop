@@ -37,7 +37,7 @@ export default function Navbar() {
               setMenuOpen(false);
             }}
           >
-            Sidhhanath Krushi Kendra
+            Sidhhanath Krushi Kendra Mangalwedha
           </span>
         </div>
 
