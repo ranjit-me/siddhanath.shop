@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="95" height="95" viewBox="0 0 95 95">
+  <defs>
+    <clipPath id="clip-Yield_Potential">
+      <rect width="95" height="95"/>
+    </clipPath>
+  </defs>
+  <g id="Yield_Potential" data-name="Yield Potential" clip-path="url(#clip-Yield_Potential)">
+    <g id="Ellipse_1" data-name="Ellipse 1" fill="#fff" stroke="#102d69" stroke-width="2">
+      <circle cx="47.5" cy="47.5" r="47.5" stroke="none"/>
+      <circle cx="47.5" cy="47.5" r="46.5" fill="none"/>
+    </g>
+    <g id="Layer_1" data-name="Layer 1" transform="translate(22.94 22.13)">
+      <g id="Group_41" data-name="Group 41">
+        <path id="Path_358" data-name="Path 358" d="M1.06,19.76,18.17,8l5.44,7.18L34.66,7.16,31.36,2.7,49,.87,42.54,17.14l-3.47-3.97L21.65,25.2l-5.53-7.4L5.07,25.2Z" fill="none" stroke="#112e6a" stroke-miterlimit="10" stroke-width="1.5"/>
+        <rect id="Rectangle_5" data-name="Rectangle 5" width="7.57" height="21.39" transform="translate(6.32 27.61)" fill="none" stroke="#112e6a" stroke-miterlimit="10" stroke-width="1.5"/>
+        <rect id="Rectangle_6" data-name="Rectangle 6" width="7.57" height="18.18" transform="translate(17.46 30.81)" fill="none" stroke="#112e6a" stroke-miterlimit="10" stroke-width="1.5"/>
+        <rect id="Rectangle_7" data-name="Rectangle 7" width="7.57" height="23.35" transform="translate(28.42 25.65)" fill="none" stroke="#112e6a" stroke-miterlimit="10" stroke-width="1.5"/>
+        <rect id="Rectangle_8" data-name="Rectangle 8" width="7.57" height="26.47" transform="translate(39.11 22.53)" fill="none" stroke="#112e6a" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
